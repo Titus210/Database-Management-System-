@@ -1,3 +1,3 @@
 
 
-select * from 
+select * from students
